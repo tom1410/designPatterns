@@ -34,6 +34,17 @@ public class AdapterImpl implements Adapter
 	 * @ordered
 	 */
 	
+	public void request() {
+		// TODO : to implement	
+	}
+
+	/**
+	 * <!-- begin-user-doc -->
+	 * <!--  end-user-doc  -->
+	 * @generated
+	 * @ordered
+	 */
+	
 	public abstract void request() {
 		// TODO : to implement	
 	}
