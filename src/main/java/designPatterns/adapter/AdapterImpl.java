@@ -34,7 +34,7 @@ public class AdapterImpl implements Adapter
 	 * @ordered
 	 */
 	
-	public void request() {
+	public abstract void request() {
 		// TODO : to implement	
 	}
 
